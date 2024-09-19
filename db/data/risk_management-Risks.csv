@@ -1,0 +1,4 @@
+ID;Title;Prio;Descr;Impact;Criticality;miti_ID;Supplier_BusinessPartner
+2fb286d4-fc4d-4275-82e4-e87a24f086ec;CFR non-compliance;1;Recent restructuring might violate CFR code 71;1000;2;d79411fc-270b-489c-9133-564461f871dd;3270
+55ce1010-e6ee-40cf-8fd2-7905f144f407;SLA violation with possible termination cause;2;Repeated SLA violation on service delivery for two successive quarters;90000;3;cf3a64e3-62e7-42ad-acb2-16e200f711d3;2803
+3a731881-9573-4f48-a8da-cdd3dc250555;Shipment violating export control;1;Violation of export and trade control with unauthorized downloads;200000;2;8a0a9f4f-588d-4d81-93fc-f5b3ed295320;3510
